@@ -13,7 +13,7 @@ class Dog
     @breed
   end
   def bark()
-    puts 'Woof!'
+    puts 'woof!'
   end
 
   def sit()
